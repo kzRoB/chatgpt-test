@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#board {
+    margin: 20px auto;
+}
+
+#status, #timer {
+    margin: 20px;
+    font-size: 1.2em;
+}
